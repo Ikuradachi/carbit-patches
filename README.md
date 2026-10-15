@@ -1,12 +1,10 @@
-# 👋🧩 Morphe Patches template
+# 🚗🧩 CarbitLink Patches
 
-Template repository for Morphe Patches.
+Morphe patches for CarbitLink (`net.easyconn.carman.wws`).
 
 ## ❓ About
 
-Patches for apps I like.
-
-<!-- TODO: Update this about section with a brief introduction/summary about this repo and what it offers. -->
+Custom Morphe patches for CarbitLink providing feature unlocks including Mapbox, Google Maps, Spotify integration, and TwinSpace.
 
 ### How to use these patches
 
@@ -44,4 +42,4 @@ See the [Morphe documentation](https://github.com/MorpheApp/morphe-documentation
 
 ## 📜 License
 
-UserXYZ Patches are licensed under the [GNU General Public License v3.0](LICENSE)
+CarbitLink Patches are licensed under the [GNU General Public License v3.0](LICENSE)
