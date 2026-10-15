@@ -1,7 +1,7 @@
 {
-  "created_at": "2026-10-15T06:40:33",
-  "description": "## 1.0.0-dev.1 (2026-10-15)\n\n### ✨ New Features\n\n* add CarbitLink VIP features unlock patch ([f780e46](https://github.com/Ikuradachi/carbit-patches/commit/f780e46f9064a8e58d6948780cf52b8074609922))",
-  "download_url": "https://github.com/Ikuradachi/carbit-patches/releases/download/v1.0.0-dev.1/patches-1.0.0-dev.1.mpp",
+  "created_at": "2026-10-15T08:39:56",
+  "description": "## [1.0.0-dev.2](https://github.com/Ikuradachi/carbit-patches/compare/v1.0.0-dev.1...v1.0.0-dev.2) (2026-10-15)\n\n### ✨ New Features\n\n* add patch to disable tracking and analytics (experimental) ([216136c](https://github.com/Ikuradachi/carbit-patches/commit/216136ce212cea090212d99473f5446a51304b19))",
+  "download_url": "https://github.com/Ikuradachi/carbit-patches/releases/download/v1.0.0-dev.2/patches-1.0.0-dev.2.mpp",
   "signature_download_url": "",
-  "version": "1.0.0-dev.1"
+  "version": "1.0.0-dev.2"
 }
